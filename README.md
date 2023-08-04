@@ -2,11 +2,9 @@
 
 ## Objective  
 
-The purpose of this project is to showcase that I am capable of deciphering DNS & ICMP Traffic logs as well as reading and understanding packet sniffing tests using tcpdump.  
+The purpose of this project is to showcase that when faced with an unresponsive domain issue, I am capable of deciphering DNS & ICMP Traffic logs as well as reading and understanding packet sniffing tests using tcpdump to analyze the problem.  
 
-## Notes For The Readers:  
+## Note For The Readers:  
 
-Please navigate to the **Network Traffic Analysis** section on the left to view the activity content.  
-
-Note that 
+Please navigate to the _**Network Traffic Analysis**_ section on the left to view the activity content.  
 
