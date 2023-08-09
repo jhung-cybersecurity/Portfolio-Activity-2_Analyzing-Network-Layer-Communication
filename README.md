@@ -1,4 +1,4 @@
-# Project #2: Analyzing-Network-Layer-Communication
+# Portfolio Activity #2: Analyzing-Network-Layer-Communication
 
 ## Objective  
 
